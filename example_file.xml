@@ -1,0 +1,27 @@
+﻿<?xml version = "1.0" encoding="UTF-8"?>
+<employees>
+	<employee>
+		<name>Elliott Harber</name>
+		<birthday>1993-01-13</birthday>
+		<position>Controls Engineer</position>
+		<payment_type>0</payment_type>
+		<payment>3900</payment>
+		<department_id>1</department_id>
+	</employee>
+	<employee>
+		<name>Hoyt Veum</name>
+		<birthday>1994-01-13</birthday>
+		<position>Distribution Manager</position>
+		<payment_type>1</payment_type>
+		<payment>20</payment>
+		<department_id>2</department_id>
+	</employee>
+	<employee>
+		<name>Elna Herman V</name>
+		<birthday>1995-01-13</birthday>
+		<position>Controls Engineer</position>
+		<payment_type>0</payment_type>
+		<payment>2500</payment>
+		<department_id>3</department_id>
+	</employee>
+</employees>  
